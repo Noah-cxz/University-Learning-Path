@@ -5,9 +5,12 @@
 
 #### 大二寒假
 
-##### 2022/02/16 - ?? 
+##### 2022/01/17 - 2022/02/18 
 
 - 阿里天池新人赛"二手车价格预测"Baseline部分复现	`./Machine_Learning/Uesd-Car-Price-Predict`
+- ICASSP-SPGC-2022 AIOps 竞赛Baseline整理与复现   `./Machine_Learning/AIOps-Baseline`
+- 高等数学下册、线性代数以及概率论网课笔记整理   `./Mathematics/Bilibili-Engineering-Mathematics`
+- 计算机网络、操作系统网课笔记整理   `./Machine_Learning/CS_Basics/Bilibili-CN-and-OS`
 
 
 
